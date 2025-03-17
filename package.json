@@ -1,0 +1,15 @@
+{
+  "name": "backend-1",
+  "version": "1.0.0",
+  "description": "it is a tutorial for basic revision",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Aditya Tiwar",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
